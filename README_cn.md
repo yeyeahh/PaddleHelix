@@ -16,6 +16,9 @@
 
 `2024.04.16` 螺旋桨团队发布了《HelixFold-Multimer技术报告》，它是一个蛋白质复合物结构预测模型，在抗原-抗体和肽-蛋白质结构预测方面取得了显著成功。更多详情请参考[报告](https://arxiv.org/abs/2404.10260v2)。螺旋桨平台上现已提供通用和抗原-抗体蛋白质复合物的在线结构预测服务，分别位于[链接1](https://paddlehelix.baidu.com/app/drug/protein-complex/forecast)和[链接2](https://paddlehelix.baidu.com/app/drug/KYKT/forecast)。
 
+
+`2023.10.9`，HelixFold-Single的研究工作《A method for multiple-sequence-alignment-free protein structure prediction using a protein language model》被《Nature Machine Intelligence》期刊接收，详见 [论文](https://doi.org/10.1038/s42256-023-00721-6)。
+
 `2022.12.08` 论文"HelixMO: Sample-Efficient Molecular Optimization in Scene-Sensitive Latent Space"被**BIBM 2022**接收。详情参见[链接1](https://www.computer.org/csdl/proceedings-article/bibm/2022/09995561/1JC23yWxizC)或[链接2](https://aps.arxiv.org/abs/2112.00905)去获得更多信息。也欢迎到我们的服务平台[PaddleHelix](https://paddlehelix.baidu.com/app/drug/drugdesign/forecast)试用药物设计服务.
 
 `2022.08.11` 螺旋桨团队开源了HelixGEM-2的代码, 它是一个全新的基于长程多体建模的小分子属性预测框架，并在OGB [PCQM4Mv2](https://ogb.stanford.edu/docs/lsc/leaderboards/) 排行榜取得第一的成绩。详情参见 [论文](https://arxiv.org/abs/2208.05863) 和 [代码](./apps/pretrained_compound/ChemRL/GEM-2)。

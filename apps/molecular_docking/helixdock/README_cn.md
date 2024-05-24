@@ -11,6 +11,17 @@ HelixDock还在交叉对接和基于结构的虚拟筛选基准中表现出色�
 ## 在线服务
 我们同时也提供了免安装的在线预测服务[螺旋桨 HelixDock-预测](https://paddlehelix.baidu.com/app/drug/helix-dock/forecast) 。
 
+## 许可证
+
+本项目采用 [CC BY-NC 许可证](https://creativecommons.org/licenses/by-nc/4.0/)。
+
+根据此许可证，您可以自由分享、复制、发布、传播作品，但需遵循以下限制：
+
+- 署名（BY）：您必须提供适当的署名，提供指向许可证的链接，并指明是否有进行了更改。您可以使用的方式包括但不限于提供作者姓名、项目链接等信息。
+- 非商业性使用（NC）：您不得将本项目用于商业目的，但可以在学术研究、教育等非商业用途下使用。
+
+如有任何疑问，请参阅 [许可证全文](https://creativecommons.org/licenses/by-nc/4.0/legalcode)。
+
 ## 环境
 
 

@@ -19,6 +19,9 @@ English | [简体中文](README_cn.md)
 
 `2024.04.16` PaddleHelix released the technical report of HelixFold-Multimer, a protein complex structure prediction model which achieves remarkable success in antigen-antibody and peptide-protein structure prediction. Please refer to the [report](https://arxiv.org/abs/2404.10260v2) for more details. The online structure prediction services for general and antigen-antibody protein complex are now available at [link1](https://paddlehelix.baidu.com/app/drug/protein-complex/forecast) and [link2](https://paddlehelix.baidu.com/app/drug/KYKT/forecast) on the PaddleHelix platform respectively.
 
+`2023.10.09` The work of HelixFold-Single titled with "A method for multiple-sequence-alignment-free protein structure prediction using a protein language model" is accepted by Nature Machine Intelligence. Please refer to [paper](https://doi.org/10.1038/s42256-023-00721-6) for more details.
+
+
 `2022.12.08` Paper "HelixMO: Sample-Efficient Molecular Optimization in Scene-Sensitive Latent Space" is accepted by **BIBM 2022**. Please refere to [link1](https://www.computer.org/csdl/proceedings-article/bibm/2022/09995561/1JC23yWxizC) or [link2](https://aps.arxiv.org/abs/2112.00905) for more details. We also deployed the drug design service on the website [PaddleHelix](https://paddlehelix.baidu.com/app/drug/drugdesign/forecast).
 
 `2022.08.11` PaddleHelix released the codes of HelixGEM-2, a novel Molecular Property Prediction Network that models full-range many-body interactions. And it ranked 1st in the OGB [PCQM4Mv2](https://ogb.stanford.edu/docs/lsc/leaderboards/) leaderboard. Please refer to [paper](https://arxiv.org/abs/2208.05863) and [codes](./apps/pretrained_compound/ChemRL/GEM-2) for more details.
