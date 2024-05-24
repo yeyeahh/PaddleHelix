@@ -1,3 +1,4 @@
+English | [简体中文](README_cn.md)
 # HelixDock:Pre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction Models
 This repository contains the implementation for our [paper](https://arxiv.org/abs/2310.13913).
 
