@@ -1,3 +1,4 @@
+English | [简体中文](README_cn.md)
 # HelixDock:Pre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction Models
 This repository contains the implementation for our [paper](https://arxiv.org/abs/2310.13913).
 
@@ -8,6 +9,15 @@ HelixDock also demonstrates outstanding capabilities in cross-docking and struct
 ## Online Service
 For those who want to try out our model without any installation, we also provide an online interface [PaddleHelix HelixDock-forcast](https://paddlehelix.baidu.com/app/drug/helix-dock/forecast) through web service.
 
+## License
+This project is licensed under the [CC BY-NC License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Under this license, you are free to share, copy, distribute, and transmit the work, subject to the following restrictions:
+
+- Attribution (BY): You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- Non-Commercial (NC): You may not use the material for commercial purposes, but you are free to use it for academic research, education, and other non-commercial purposes.
+
+For more details, please refer to the [full license text](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 ## Environment
 
 
