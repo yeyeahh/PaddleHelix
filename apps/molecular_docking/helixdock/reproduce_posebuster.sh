@@ -1,7 +1,7 @@
 log_dir="reproduce_posebuster"
 mkdir -p log/$log_dir
 init_model="model/helixdock.pdparams"
-dataset_config="configs/dataset_configs/pdbbind_core.json"
+dataset_config="configs/dataset_configs/poesbusters.json"
 model_config="configs/model_configs/helixdock_model.json"
 train_config="configs/train_configs/lr8e-4_ema.json"
 encoder_config="configs/model_configs/helixdock_encoder.json"
